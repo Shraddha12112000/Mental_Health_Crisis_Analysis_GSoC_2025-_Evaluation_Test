@@ -1,0 +1,6 @@
+pandas
+nltk
+praw
+folium
+vaderSentiment
+matplotlib
